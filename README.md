@@ -1,1 +1,2 @@
 # Canny-Edge-Detection
+This project implements the Canny Edge Detection algorithm to detect edges in grayscale images and, optionally, perform template matching. The process involves multiple stages, including Gaussian filtering, gradient calculation, non-maximal suppression, and edge-linking using hysteresis. The algorithm's effectiveness is evaluated on sample images, highlighting performance variations across different sigma values.
